@@ -1,0 +1,12 @@
+{
+    "prefix": "reproduce",
+    "memory_size": 2000,
+    "memory_per_class": 20,
+    "fixed_memory": false,
+    "shuffle": true,
+    "model_name": "derv1",
+    "convnet_type": "resnet18",
+    "seed": [1993]
+
+}
+
