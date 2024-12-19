@@ -1,6 +1,6 @@
 
 
-# Maintaining Fairness in Logit-based Knowledge Distillation for Class-Incremental Learning (AAAI 25)
+# Maintaining Fairness in Logit-based Knowledge Distillation for Class-Incremental Learning (AAAI25)
 
 <p align="center">
 <img src="figs/Our_method.png" width="80%">
