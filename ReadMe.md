@@ -86,7 +86,7 @@ See the `samples.sh` file for more command-line runtime code.
 
 If you found our work useful for your research, please cite our work:
 
-@inproceedings{gao2025maintaining,
+  @inproceedings{gao2025maintaining,
   title={Maintaining Fairness in Logit-based Knowledge Distillation for Class-Incremental Learning},
   author={Gao, Zijian and Han, Shanhao and Zhang, Xingxing and Xu, Kele and Zhou, Dulan and Mao, Xinjun and Dou, Yong and Wang, Huaimin},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
